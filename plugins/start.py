@@ -125,11 +125,23 @@ async def not_joined(client: Client, message: Message):
         ],[
         InlineKeyboardButton( '𝕁𝕠𝕚𝕟 ℂ𝕙𝕒𝕟𝕟𝕖𝕝 2', url=f'https://t.me/BDNetwork')
         ],[
-        InlineKeyboardButton( '𝕁𝕠𝕚𝕟 ℂ𝕙𝕒𝕟𝕟𝕖𝕝 3', url=f'https://t.me/BDNetwork')
+        InlineKeyboardButton( '𝕁𝕠𝕚𝕟 ℂ𝕙𝕒𝕟𝕟𝕖𝕝 3', url=f'https://t.me/Anime_Dub_in_English')
         ],[
-        InlineKeyboardButton( '𝕁𝕠𝕚𝕟 ℂ𝕙𝕒𝕟𝕟𝕖𝕝 4', url=f'https://t.me/BDNetwork')
+        InlineKeyboardButton( '𝕁𝕠𝕚𝕟 ℂ𝕙𝕒𝕟𝕟𝕖𝕝 4', url=f'https://t.me/Dub_Animes')
         ],[
-        InlineKeyboardButton( '𝕁𝕠𝕚𝕟 ℂ𝕙𝕒𝕟𝕟𝕖𝕝 5', url= client.invitelink)  
+        InlineKeyboardButton( '𝕁𝕠𝕚𝕟 ℂ𝕙𝕒𝕟𝕟𝕖𝕝 4', url=f'https://t.me/Naruto_Anime_In_Hindi_Dubbed_A')
+        ],[
+        InlineKeyboardButton( '𝕁𝕠𝕚𝕟 ℂ𝕙𝕒𝕟𝕟𝕖𝕝 4', url=f'https://t.me/Ongoing_Anime_Hindi_Dubbed')
+        ],[
+        InlineKeyboardButton( '𝕁𝕠𝕚𝕟 ℂ𝕙𝕒𝕟𝕟𝕖𝕝 4', url=f'https://t.me/Ongoing_Anime_2026')
+        ],[
+        InlineKeyboardButton( '𝕁𝕠𝕚𝕟 ℂ𝕙𝕒𝕟𝕟𝕖𝕝 4', url=f'https://t.me/Dubbed_Anime_in_Hindi_Official')
+        ],[
+        InlineKeyboardButton( '𝕁𝕠𝕚𝕟 ℂ𝕙𝕒𝕟𝕟𝕖𝕝 4', url=f'https://t.me/Crunchyroll_Hindi_Dubb_Official')
+        ],[
+        InlineKeyboardButton( '𝕁𝕠𝕚𝕟 ℂ𝕙𝕒𝕟𝕟𝕖𝕝 5', url= client.invitelink)
+       
+     
         
     ]]
     try:
