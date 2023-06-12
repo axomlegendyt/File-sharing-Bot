@@ -142,7 +142,8 @@ async def not_joined(client: Client, message: Message):
         InlineKeyboardButton( '𝕁𝕠𝕚𝕟 ℂ𝕙𝕒𝕟𝕟𝕖𝕝 10', url=f'https://t.me/Crunchyroll_Hindi_Dubb_Official')
         ],[
         InlineKeyboardButton( '𝕁𝕠𝕚𝕟 ℂ𝕙𝕒𝕟𝕟𝕖𝕝 11', url=f'https://t.me/+QRm4rOXLxDAzNTk1')
-       
+        ],[
+        InlineKeyboardButton( '𝕁𝕠𝕚𝕟 ℂ𝕙𝕒𝕟𝕟𝕖𝕝 12', url=f'https://t.me/+BBv4bLxd19EyNTE1')
      
         
     ]]
