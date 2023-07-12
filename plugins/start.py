@@ -144,6 +144,10 @@ async def not_joined(client: Client, message: Message):
         InlineKeyboardButton( '𝕁𝕠𝕚𝕟 ℂ𝕙𝕒𝕟𝕟𝕖𝕝 11', url=f'https://t.me/+QRm4rOXLxDAzNTk1')
         ],[
         InlineKeyboardButton( '𝕁𝕠𝕚𝕟 ℂ𝕙𝕒𝕟𝕟𝕖𝕝 12', url=f'https://t.me/+BBv4bLxd19EyNTE1')
+        ],[
+        InlineKeyboardButton( '𝕁𝕠𝕚𝕟 ℂ𝕙𝕒𝕟𝕟𝕖𝕝 13', url=f'https://t.me/BDAnimeHindi')
+        ],[
+        InlineKeyboardButton( '𝕁𝕠𝕚𝕟 ℂ𝕙𝕒𝕟𝕟𝕖𝕝 14', url=f'https://t.me/+7tulzcf4wLc0YmZl')
      
         
     ]]
